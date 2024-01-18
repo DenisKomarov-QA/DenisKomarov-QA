@@ -1,4 +1,4 @@
-[![Header](https://github.com/DenisKomarov-QA/DenisKomarov-QA/blob/main/assets/233.png)](https://goodyrevqa.github.io/)
+[![Header](https://github.com/DenisKomarov-QA/DenisKomarov-QA/blob/main/assets/233.png)]
 
 ## QA Engineer 
 
