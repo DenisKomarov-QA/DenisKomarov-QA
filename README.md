@@ -3,7 +3,7 @@
 ## QA Engineer 
 
 ### Languages and Tools:
-[![Python](https://img.shields.io/badge/-Python-24292f??style=for-the-badge&logo=Python&logoColor=47c5fb)](https://github.com/DenisKomarov-QA/Python_TG_bot.git)
+[![Python](https://img.shields.io/badge/-Python-ebe6e4??style=for-the-badge&logo=Python&logoColor=47c5fb)](https://github.com/DenisKomarov-QA/Python_TG_bot.git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292f??style=for-the-badge&logo=JavaScript&logoColor=fff600)
 [![Miro](https://img.shields.io/badge/-Miro-24292f??style=for-the-badge&logo=Miro&logoColor=ff6c36)](https://miro.com/app/board/uXjVP_77u_w=/)
 [![Selenium](https://img.shields.io/badge/-Selenium-24292f??style=for-the-badge&logo=Selenium&logoColor=00bf0d)](https://github.com/DenisKomarov-QA/python_selenium.git)
