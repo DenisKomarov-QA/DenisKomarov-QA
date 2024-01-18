@@ -27,4 +27,4 @@
 ### For communication:
 [![Telegram](https://img.shields.io/badge/-Telegram-ebe6e4??style=for-the-badge&logo=Telegram&logoColor=47c5fb)](https://t.me/Deniskomarow)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisKomarov-QA&hide=issues,contribs&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisKomarov-QA&hide=issues,contribs&show_icons=true&theme=swift)
